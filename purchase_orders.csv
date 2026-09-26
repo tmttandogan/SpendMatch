@@ -1,0 +1,7 @@
+po_id,campaign_id,campaign_name,agency,region,raw_category,gl_code,amount
+PO-101,CMP-001,Summer Launch,Northstar Creative,US,production,6100,12000
+PO-102,,Summer Launch 2026,Northstar Creative,US,creative,6100,8500
+PO-103,CMP-002,Back to Campus,Meridian Media,US,paid media,6200,25000
+PO-104,,Flavor Research,Insight House,US,consumer insights,6300,4200
+PO-105,CMP-004,Holiday Brand Plan,Atlas Strategy,EU,planning,6100,6000
+PO-106,,Mystery Activation,Unknown Agency,US,events,6500,3000
